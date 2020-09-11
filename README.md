@@ -48,7 +48,7 @@ a) OCR often gets confused between 0 and O as they both look similar.
 
 b) There might be case that you can get unwanted characters with the answer. I have tried my best to avoid this, but still it might happen.
 
-c) Image quality must be of high qualify and preferrably captured from a close distance. Otherwise, it might not detected the number plate.
+c) Image quality must be of high qualify and preferrably captured from a close distance. Otherwise, it might not detect the number plate.
 
 Rest assured, I am still working on this and will be resolved soon.
 
